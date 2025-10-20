@@ -1,0 +1,13 @@
+.sectionMain {
+    text-align: center;
+}
+
+.imagem {
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.descricao {
+    max-width: 500px;
+    margin: 1rem auto;
+}
